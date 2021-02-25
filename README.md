@@ -1,2 +1,2 @@
 # Hello-World
-This is my first landing page to build portfolio.
+This is my first landing page.
